@@ -3,16 +3,18 @@ C Sharp Multi Threaded Port Scanner GUI
 
 C# multithreaded TCP port scanner GUI application.
 
+#[Download Software](https://github.com/rizwan3d/C-Sharp-Multi-Threaded-Port-Scanner-GUI/releases)
+
 Features
-    Scan by I.P address or Domain Name.
-    Choose start and finish ports.
-    Choose how long to keep connections alive.
-    Banner/Website header grabbing similar to zenmap/Nmap.
+    * Scan by I.P address or Domain Name.
+    * Choose start and finish ports.
+    * Choose how long to keep connections alive.
+    * Banner/Website header grabbing similar to zenmap/Nmap.
     
 Usage
-To see a Basic operation of the software click here My Youtube Channel (https://www.youtube.com/channel/UCSQJpRcHLSVE1CpwMJ0xmew/videos)
+To see a Basic operation of the software click here [My Youtube Channel](https://www.youtube.com/channel/UCSQJpRcHLSVE1CpwMJ0xmew/videos)
 
-#Giving credit to the original author by citing sources/
+#Giving credit to the original author by citing sources
 
 # MIT License Copyright © 2016 Muhammad Rizwan.
 
